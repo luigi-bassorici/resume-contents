@@ -1,2 +1,3 @@
 # resume-contents
- edito depois
+meu primeiro repositório
+criei para estocar meus resumos
